@@ -11,7 +11,7 @@ PyTorch 复现 LeNet-5，含 MLP 基线对照与完整评估脚本。
 ## 安装与运行
 
 ```bash
-git clone https://github.com/你的用户名/lenet5-mnist-reproduction.git
+git clone https://github.com/leona841536-ui/lenet5-mnist-reproduction.git
 cd lenet5-mnist-reproduction
 pip install -r requirements.txt
 python run_all.py
